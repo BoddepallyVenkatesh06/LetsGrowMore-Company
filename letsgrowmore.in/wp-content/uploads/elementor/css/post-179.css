@@ -1,0 +1,147 @@
+.elementor-179 .elementor-element.elementor-element-a05cbc2>.elementor-container {
+    max-width: 506px;
+}
+
+.elementor-179 .elementor-element.elementor-element-a05cbc2:not(.elementor-motion-effects-element-type-background),
+.elementor-179 .elementor-element.elementor-element-a05cbc2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #2b354f;
+}
+
+.elementor-179 .elementor-element.elementor-element-a05cbc2>.elementor-background-overlay {
+    background-image: url("https://letsgrowmore.in/wp-content/uploads/2021/05/pattern01.png");
+    background-position: top left;
+    background-repeat: repeat;
+    background-size: auto;
+    opacity: 0.71;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-179 .elementor-element.elementor-element-a05cbc2 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 6.5em 0em 5em 0em;
+}
+
+.elementor-179 .elementor-element.elementor-element-1979034f>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-179 .elementor-element.elementor-element-62c8afe9 .elementor-button {
+    font-family: "Hind", Sans-serif;
+    font-size: 0.75em;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: 0.7px;
+    fill: #335eea;
+    color: #335eea;
+    background-color: #eaeffd;
+    border-radius: 5px 5px 5px 5px;
+    padding: 0.8em 1.4em 0.6em 1.4em;
+}
+
+.elementor-179 .elementor-element.elementor-element-62c8afe9 .elementor-button:hover,
+.elementor-179 .elementor-element.elementor-element-62c8afe9 .elementor-button:focus {
+    color: #335eea;
+    background-color: #eaeffd;
+}
+
+.elementor-179 .elementor-element.elementor-element-62c8afe9 .elementor-button:hover svg,
+.elementor-179 .elementor-element.elementor-element-62c8afe9 .elementor-button:focus svg {
+    fill: #335eea;
+}
+
+.elementor-179 .elementor-element.elementor-element-62c8afe9>.elementor-widget-container {
+    padding: 0em 0em 2em 0em;
+}
+
+.elementor-179 .elementor-element.elementor-element-2da09a2e {
+    text-align: center;
+}
+
+.elementor-179 .elementor-element.elementor-element-2da09a2e .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Hind", Sans-serif;
+    font-size: 3.3em;
+    font-weight: 400;
+    line-height: 1.3em;
+    letter-spacing: -0.6px;
+}
+
+.elementor-179 .elementor-element.elementor-element-2da09a2e>.elementor-widget-container {
+    padding: 0em 0em 0em 0em;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 19px;
+    --grid-column-gap: 9px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon {
+    background-color: #335EEA;
+    --icon-padding: 1.1em;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon i {
+    color: #eaeffd;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon svg {
+    fill: #eaeffd;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-icon {
+    border-radius: 100px 100px 100px 100px;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon:hover {
+    background-color: #4C4C78;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon:hover i {
+    color: #ffffff;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22 .elementor-social-icon:hover svg {
+    fill: #ffffff;
+}
+
+.elementor-179 .elementor-element.elementor-element-756be22>.elementor-widget-container {
+    padding: 0em 0em 0em 0em;
+}
+
+@media(max-width:1024px) {
+    .elementor-179 .elementor-element.elementor-element-a05cbc2 {
+        padding: 5em 01em 5em 01em;
+    }
+    .elementor-179 .elementor-element.elementor-element-2da09a2e {
+        text-align: center;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-179 .elementor-element.elementor-element-2da09a2e {
+        text-align: center;
+    }
+    .elementor-179 .elementor-element.elementor-element-2da09a2e .elementor-heading-title {
+        font-size: 2.5em;
+        line-height: 1.3em;
+    }
+    .elementor-179 .elementor-element.elementor-element-756be22 .elementor-widget-container {
+        text-align: center;
+    }
+    .elementor-179 .elementor-element.elementor-element-756be22 {
+        --icon-size: 14px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-179 .elementor-element.elementor-element-1979034f {
+        width: 100%;
+    }
+}
